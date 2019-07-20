@@ -27,17 +27,31 @@ Assign the below variable `number` to the number `42` by replacing `None` with `
 
 
 ```python
-number = None
+number = 42
 number
 ```
+
+
+
+
+    42
+
+
 
 Next, like the above, reassign the `flatiron_mantra` variable with the string `"Learn. Love. Code."` (make sure to include the double quotes!) 
 
 
 ```python
-flatiron_mantra = None
+flatiron_mantra = "Learn. Love. Code"
 flatiron_mantra
 ```
+
+
+
+
+    'Learn. Love. Code'
+
+
 
 ## Summary
 Great work! We are well on our way to mastering Jupyter notebooks! We practiced reassigning variables, running cells, and checking our outputs.
